@@ -1,0 +1,24 @@
+public class Application {
+    public static void main (String [] args){
+        int myİnt = 9;
+        
+        String text = "Hello";
+        String blank = " ";
+        String name = "Babak";
+        String greeting = text + blank + name;
+        
+                
+        System.out.println("Hello"+ " " + "Babak");
+                
+        System.out.println("My integer is:"+ myİnt);
+        
+        double myDouble = 7.8;
+        
+        
+        System.out.println("My number is :"+ myDouble + ".");
+    
+        
+        
+    
+    }
+}
